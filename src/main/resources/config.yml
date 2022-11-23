@@ -1,0 +1,7 @@
+homes-limit: 3
+play-teleportation-sound: true
+allow-movement-while-teleporting: false
+teleportation-delay: 5
+teleportation-effects:
+  - BLINDNESS
+  - CONFUSION

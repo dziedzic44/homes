@@ -1,0 +1,21 @@
+delhome:
+  success: "Home has been successfully removed."
+  not-player: "This command is only available to players."
+  incorrect-usage: "Incorrect usage."
+  home-not-found: "Home with that name doesn't exist."
+
+home:
+  success: "Teleportation begins, don't move!"
+  not-player: "This command is only available to players."
+  incorrect-usage: "Incorrect usage."
+  no-homes: "You don't have any homes."
+  home-not-found: "Home with that name doesn't exist."
+  teleportation-cancelled: "You moved, teleportation cancelled!"
+  time-left: "Time left: {timeLeft}"
+
+sethome:
+  success: "Home has been successfully created."
+  not-player: "This command is only available to players."
+  incorrect-usage: "Incorrect usage."
+  home-already-exists: "Home with this name already exist."
+  home-limit-reached: "You can't create more homes."
